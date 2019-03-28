@@ -25,7 +25,7 @@
                                     </li>
                                 {% endif %}
                                 {% if post.download %}
-                                    <button href="{{ post.download }}" class="btn btn-default">
+                                    <button onclick="window.location.href = '{{ post.download }}';" class="btn btn-default">
                                         <i class="fa fa-download"></i> View on Figshare</button>
                                 {% endif %}
                             </ul>
