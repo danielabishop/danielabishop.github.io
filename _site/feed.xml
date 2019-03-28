@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
   <link href="https://danielabishop.github.io/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://danielabishop.github.io/" rel="alternate" type="text/html" />
-  <updated>2019-03-28T14:06:20-04:00</updated>
+  <updated>2019-03-28T14:13:45-04:00</updated>
   <id>https://danielabishop.github.io/</id>
 
   
@@ -18,101 +18,5 @@
   
 
   
-  
-    <entry>
-      <title type="html">2018 AGU Presentation</title>
-      <link href="https://danielabishop.github.io/2018/12/13/project-3/" rel="alternate" type="text/html" title="2018 AGU Presentation" />
-      <published>2018-12-13T00:00:00-05:00</published>
-      <updated>2018-12-13T00:00:00-05:00</updated>
-      <id>https://danielabishop.github.io/2018/12/13/project-3</id>
-      <content type="html" xml:base="https://danielabishop.github.io/2018/12/13/project-3/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">2017 AGU Presentation</title>
-      <link href="https://danielabishop.github.io/2017/12/13/project-1/" rel="alternate" type="text/html" title="2017 AGU Presentation" />
-      <published>2017-12-13T00:00:00-05:00</published>
-      <updated>2017-12-13T00:00:00-05:00</updated>
-      <id>https://danielabishop.github.io/2017/12/13/project-1</id>
-      <content type="html" xml:base="https://danielabishop.github.io/2017/12/13/project-1/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">2016 Lamont-Doherty Earth Observatory First Year Colloquium</title>
-      <link href="https://danielabishop.github.io/2016/04/16/project-2/" rel="alternate" type="text/html" title="2016 Lamont-Doherty Earth Observatory First Year Colloquium" />
-      <published>2016-04-16T00:00:00-04:00</published>
-      <updated>2016-04-16T00:00:00-04:00</updated>
-      <id>https://danielabishop.github.io/2016/04/16/project-2</id>
-      <content type="html" xml:base="https://danielabishop.github.io/2016/04/16/project-2/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
   
 </feed>
