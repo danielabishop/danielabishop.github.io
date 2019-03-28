@@ -36,11 +36,11 @@
                                         </strong>
                                     </li>
                                 {% endif %}
-                                <!--{% if post.download %}
-                                    <li><a href="{{ post.download }}" class="btn btn-lg btn-outline">
+                                {% if post.download %}
+                                    <li><a href={{ post.download }} class="btn btn-lg btn-outline">
                                             <i class="fa fa-download"></i> View on Figshare</a>
                                     </li>
-                                {% endif %}-->
+                                {% endif %}
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
