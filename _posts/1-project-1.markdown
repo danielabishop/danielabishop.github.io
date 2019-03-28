@@ -7,6 +7,5 @@ img: Talk1.png
 alt: image-alt
 project-date: December 2017
 description: Under Construction
-download: "https://figshare.com/s/ff9ab3bdb19ecc2d95f6"
 
 ---
