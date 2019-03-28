@@ -28,14 +28,17 @@
                                     <li>Date:
                                         <strong>{{ post.project-date }}
                                         </strong>
-                                        <a href="{{ post.download }}" class="btn btn-lg btn-outline">
-                                            <i class="fa fa-download"></i> View on Figshare</a>
                                     </li>
                                 {% endif %}
                                 {% if post.category %}
                                     <li>Service:
                                         <strong>{{ post.category }}
                                         </strong>
+                                    </li>
+                                {% endif %}
+                                {% if post.download %}
+                                    <li><a href="{{ post.download }}" class="btn btn-lg btn-outline">
+                                            <i class="fa fa-download"></i> View on Figshare</a>
                                     </li>
                                 {% endif %}
                             </ul>
