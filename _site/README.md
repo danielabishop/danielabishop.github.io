@@ -1,11 +1,11 @@
 Daniel Alexander Bishop
 =========================
 
-## PhD Student at Lamont-Doherty Earth Observatory, Columbia University
+### PhD Student at Lamont-Doherty Earth Observatory, Columbia University
 
 
 Freelancer Jekyll theme
-=========================
+-------------------------------------------
 
 Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 
