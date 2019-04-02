@@ -15,4 +15,4 @@ View the original jekyll theme in action [here](https://jeromelachaud.github.io/
 ---------
 For more details, read the [documentation](http://jekyllrb.com/)
 
-# [danielabishop.github.io](danielabishop.github.io)
+# [danielabishop.github.io](https://danielabishop.github.io)
