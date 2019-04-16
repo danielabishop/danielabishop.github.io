@@ -18,17 +18,18 @@
                                 <p>{{ post.description }}</p>
                             {% endif %}
                             <ul class="list-inline item-details">
+                                {% if post.download %}
+                                    <button onclick="window.location.href = '{{ post.download }}';" class="btn btn-default">
+                                        <i class="fa fa-download"></i> View on Figshare</button>
+                                <p></p>
+                                {% endif %}
                                 {% if post.project-date %}
                                     <li>Date:
                                         <strong>{{ post.project-date }}
                                         </strong>
                                     </li>
-                                <p></p>
                                 {% endif %}
-                                {% if post.download %}
-                                    <button onclick="window.location.href = '{{ post.download }}';" class="btn btn-default">
-                                        <i class="fa fa-download"></i> View on Figshare</button>
-                                {% endif %}
+                                
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
