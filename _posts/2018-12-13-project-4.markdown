@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+title: 2019 AGU Presentation
+date: 2019-12-10
+img: Talk4.png
+alt: image-alt
+project-date: December 2019
+description: Poster Presentation at the 2019 American Geophysical Union Fall Meeting in San Francisco, DC, on December 10, 2018.
+download: https://figshare.com/articles/2019_AGU_Presentation/11774499
+
+---
