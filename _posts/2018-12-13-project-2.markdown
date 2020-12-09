@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 title: 2018 AGU Presentation
-date: 2018-12-13
+date: 2018-12-11
 img: Talk3.png
 alt: image-alt
 project-date: December 2018
