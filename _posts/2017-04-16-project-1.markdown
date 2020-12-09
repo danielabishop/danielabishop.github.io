@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 1
 title: 2017 LDEO First Year Colloquium
 date: 2017-04-16
 img: Talk2.png
