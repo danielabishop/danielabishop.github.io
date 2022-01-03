@@ -1,8 +1,8 @@
 # Site settings
 title: Daniel A Bishop
-email: dbishop@ldeo.columbia.edu
+email: daniel.bishop98@gmail.com
 url: https://danielabishop.github.io
-description: "Daniel is a bioclimatologist-in-training with specialization in climate dynamics and dendrochronology. He has experience working with observational climate and general circulation model data, as well as the quantitative and field methods of dendrochronology. His dissertation research considers the drivers of change in spatial and temporal hydroclimate, with an emphasis on dynamic and thermodynamic causes of decadal-to-centennial precipitation trends and variability over eastern North America."
+description: "Daniel is an atmospheric scientist with specialization in climate dynamics and dendrochronology. He has experience working with observational climate and general circulation model data, as well as the quantitative and field methods of dendrochronology. His dissertation research considered the drivers of change in spatial and temporal hydroclimate, with an emphasis on dynamic and thermodynamic causes of decadal-to-centennial precipitation trends and variability over eastern North America."
 keywords: "bioclimatology, hydroclimatology, global change"
 skills: "<b>Atmospheric Scientist, PhD</b><br>Catastrophe Modeling - Hydroclimatology - Global Change - Climate Impacts"
 meta_author: Bishop Daniel
@@ -55,11 +55,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Tree Ring Lab
-  - line: Lamont-Doherty Earth Observatory
-  - line: Columbia University
-  - line: Palisades, NY 10964
-  - line: dbishop [at] ldeo [dot] columbia [dot] edu
+  - line: Boston, MA
+  - line: daniel [dot] bishop98 [at] gmail [dot] com
 
 # Credits content
 credits: "Under Construction"
