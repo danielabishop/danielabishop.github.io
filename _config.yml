@@ -4,7 +4,7 @@ email: daniel.bishop98@gmail.com
 url: https://danielabishop.github.io
 description: "Daniel is an atmospheric scientist with specialization in climate dynamics and dendrochronology. He has experience working with observational climate and general circulation model data, as well as the quantitative and field methods of dendrochronology. His dissertation research considered the drivers of change in spatial and temporal hydroclimate, with an emphasis on dynamic and thermodynamic causes of decadal-to-centennial precipitation trends and variability over eastern North America."
 keywords: "bioclimatology, hydroclimatology, global change"
-skills: "<b>Atmospheric Scientist, PhD</b><br>Catastrophe Modeling - Hydroclimatology - Global Change - Climate Impacts"
+skills: "<b>Atmospheric Scientist, PhD</b><br>Climate Risk Assessment - Hydroclimatology - Global Change - Climate Impacts"
 meta_author: Bishop Daniel
 
 # Google webmaster tools
@@ -55,7 +55,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Boston, MA
+  - line: Cambridge, MA
   - line: daniel [dot] bishop98 [at] gmail [dot] com
 
 # Credits content
